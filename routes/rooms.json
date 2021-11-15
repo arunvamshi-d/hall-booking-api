@@ -1,0 +1,38 @@
+[
+    {
+            "id":1,
+        "RoomName":"Standard Suite",
+        "BookedStatus":"Available",
+        "PriceperHour":700
+
+    },
+    {
+        "id":2,
+        "RoomName":"Executive Suite",
+        "BookedStatus":"Available",
+        "PriceperHour":500
+
+    },
+    {
+        "id":3,
+        "RoomName":"Presidential Suite",
+        "BookedStatus":"Available",
+        "PriceperHour":1000
+
+    },
+    {
+        "id":4,
+        "RoomName":"Penthouse Suite",
+        "BookedStatus":"Available",
+        "PriceperHour":450
+
+    },
+    {
+        "id":5,
+        "RoomName":"Deluxe Suite",
+        "BookedStatus":"Available",
+        "PriceperHour":800
+
+    }
+
+]

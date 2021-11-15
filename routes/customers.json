@@ -1,0 +1,42 @@
+[
+    {
+            "id":1,
+            "customerName":"Ram",
+        "RoomName":"Standard Suite",
+        "BookedStatus":"Booked",
+        "Date":"7th Nov"
+
+    },
+    {
+        "id":2,
+        "customerName":"Lasya",       
+         "RoomName":"Executive Suite",
+        "BookedStatus":"Booked",
+        "Date":"10th Oct"
+
+    },
+    {
+        "id":3,
+        "customerName":"Oorvi",
+        "RoomName":"Presidential Suite",
+        "BookedStatus":"Booked",
+        "Date": "18th Dec"
+
+    },
+    {
+        "id":4,
+        "customerName":"Ravi",
+        "RoomName":"Penthouse Suite",
+        "BookedStatus":"Booked",
+        "Date": "30th Sept"
+
+    },
+    {
+        "id":5,
+        "customerName":"Kangana",
+        "RoomName":"Deluxe  Suite",
+        "BookedStatus":"Booked",
+        "Date": "12th Dec"
+
+    }
+]
